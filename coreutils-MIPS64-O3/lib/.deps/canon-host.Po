@@ -1,0 +1,190 @@
+lib/canon-host.o: lib/canon-host.c lib/config.h lib/canon-host.h \
+ lib/string.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/string.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h \
+ lib/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/xlocale.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string2.h \
+ lib/stdlib.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdlib.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string3.h \
+ lib/netdb.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/netdb.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/netinet/in.h \
+ lib/stdint.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdint.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wchar.h \
+ lib/limits.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include-fixed/limits.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include-fixed/syslimits.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/limits.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/posix1_lim.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/local_lim.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/limits.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/posix2_lim.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/xopen_lim.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio_lim.h \
+ lib/sys/socket.h lib/sys/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h \
+ lib/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h \
+ lib/sys/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sigset.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/sysmacros.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/socket.h \
+ lib/sys/uio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/uio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/uio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/socket.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sockaddr.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/socket.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/sockios.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/ioctl.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/ioctl.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/socket2.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/in.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/rpc/netdb.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/siginfo.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/netdb.h
+
+lib/config.h:
+
+lib/canon-host.h:
+
+lib/string.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/string.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h:
+
+lib/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/xlocale.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string2.h:
+
+lib/stdlib.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdlib.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/string3.h:
+
+lib/netdb.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/netdb.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/netinet/in.h:
+
+lib/stdint.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdint.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wchar.h:
+
+lib/limits.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include-fixed/limits.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include-fixed/syslimits.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/limits.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/posix1_lim.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/local_lim.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/limits.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/posix2_lim.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/xopen_lim.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio_lim.h:
+
+lib/sys/socket.h:
+
+lib/sys/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h:
+
+lib/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h:
+
+lib/sys/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sigset.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/sysmacros.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/socket.h:
+
+lib/sys/uio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/uio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/uio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/socket.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sockaddr.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/socket.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/sockios.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/ioctl.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/ioctl.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/socket2.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/in.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/rpc/netdb.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/siginfo.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/netdb.h:

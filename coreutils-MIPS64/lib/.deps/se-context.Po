@@ -1,0 +1,32 @@
+lib/se-context.o: lib/se-context.c lib/config.h lib/selinux/context.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/errno-base.h
+
+lib/config.h:
+
+lib/selinux/context.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/errno-base.h:

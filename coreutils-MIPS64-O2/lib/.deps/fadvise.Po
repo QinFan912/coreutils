@@ -1,0 +1,127 @@
+lib/fadvise.o: lib/fadvise.c lib/config.h lib/fadvise.h lib/stdio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h \
+ lib/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/libio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/_G_config.h \
+ lib/wchar.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/wchar.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdarg.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio_lim.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sys_errlist.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio2.h \
+ lib/sys/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/types.h \
+ lib/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h \
+ lib/sys/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/select.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sigset.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/time.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/sysmacros.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/pthreadtypes.h \
+ lib/fcntl.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/fcntl.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/fcntl.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sgidefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/uio.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stat.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/fcntl2.h \
+ lib/ignore-value.h
+
+lib/config.h:
+
+lib/fadvise.h:
+
+lib/stdio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/stdio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h:
+
+lib/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/libio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/_G_config.h:
+
+lib/wchar.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/wchar.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdarg.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio_lim.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sys_errlist.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stdio2.h:
+
+lib/sys/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/types.h:
+
+lib/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h:
+
+lib/sys/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/select.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/sigset.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/time.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/sysmacros.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/pthreadtypes.h:
+
+lib/fcntl.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/fcntl.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/fcntl.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sgidefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/uio.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/stat.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/fcntl2.h:
+
+lib/ignore-value.h:

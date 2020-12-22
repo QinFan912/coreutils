@@ -1,0 +1,60 @@
+lib/getopt1.o: lib/getopt1.c lib/config.h lib/getopt.h lib/getopt.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/getopt.h \
+ lib/ctype.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/ctype.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/xlocale.h \
+ lib/getopt-cdefs.h lib/getopt-pfx-core.h lib/getopt-core.h \
+ lib/getopt-pfx-ext.h lib/getopt-ext.h lib/getopt_int.h
+
+lib/config.h:
+
+lib/getopt.h:
+
+lib/getopt.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/getopt.h:
+
+lib/ctype.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/ctype.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/types.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/typesizes.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/endian.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/byteswap.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/xlocale.h:
+
+lib/getopt-cdefs.h:
+
+lib/getopt-pfx-core.h:
+
+lib/getopt-core.h:
+
+lib/getopt-pfx-ext.h:
+
+lib/getopt-ext.h:
+
+lib/getopt_int.h:

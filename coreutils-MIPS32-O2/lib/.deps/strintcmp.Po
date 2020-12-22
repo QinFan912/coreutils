@@ -1,0 +1,14 @@
+lib/strintcmp.o: lib/strintcmp.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h \
+ lib/strnumcmp-in.h lib/strnumcmp.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/strnumcmp-in.h:
+
+lib/strnumcmp.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h:

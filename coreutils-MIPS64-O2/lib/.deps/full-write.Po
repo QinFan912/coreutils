@@ -1,0 +1,41 @@
+lib/full-write.o: lib/full-write.c lib/config.h lib/full-write.h \
+ lib/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/errno.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/errno-base.h \
+ lib/safe-write.h
+
+lib/config.h:
+
+lib/full-write.h:
+
+lib/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/features.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/sys/cdefs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/wordsize.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/gnu/stubs.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/bits/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/linux/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm/errno.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../mips64el-redhat-linux/sysroot/usr/include/asm-generic/errno-base.h:
+
+lib/safe-write.h:

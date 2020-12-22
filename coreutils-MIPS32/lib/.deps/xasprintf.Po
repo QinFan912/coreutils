@@ -1,0 +1,11 @@
+lib/xasprintf.o: lib/xasprintf.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/xvasprintf.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/xvasprintf.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h:

@@ -1,0 +1,11 @@
+lib/buffer-lcm.o: lib/buffer-lcm.c lib/config.h lib/buffer-lcm.h \
+ lib/stddef.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h
+
+lib/config.h:
+
+lib/buffer-lcm.h:
+
+lib/stddef.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stddef.h:

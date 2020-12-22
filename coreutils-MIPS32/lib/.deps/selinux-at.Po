@@ -1,0 +1,272 @@
+lib/selinux-at.o: lib/selinux-at.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/selinux-at.h \
+ lib/selinux/selinux.h lib/sys/types.h \
+ /usr/mips-linux-gnu/include/sys/types.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/mips-linux-gnu/include/bits/types.h \
+ /usr/mips-linux-gnu/include/bits/typesizes.h \
+ /usr/mips-linux-gnu/include/bits/types/clock_t.h \
+ /usr/mips-linux-gnu/include/bits/types/clockid_t.h \
+ /usr/mips-linux-gnu/include/bits/types/time_t.h \
+ /usr/mips-linux-gnu/include/bits/types/timer_t.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h \
+ /usr/mips-linux-gnu/include/bits/stdint-intn.h \
+ /usr/mips-linux-gnu/include/endian.h \
+ /usr/mips-linux-gnu/include/bits/endian.h \
+ /usr/mips-linux-gnu/include/bits/byteswap.h \
+ /usr/mips-linux-gnu/include/bits/byteswap-16.h \
+ /usr/mips-linux-gnu/include/bits/uintn-identity.h lib/sys/select.h \
+ /usr/mips-linux-gnu/include/sys/select.h \
+ /usr/mips-linux-gnu/include/bits/select.h \
+ /usr/mips-linux-gnu/include/bits/types/sigset_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__sigset_t.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timeval.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timespec.h \
+ /usr/mips-linux-gnu/include/sys/sysmacros.h \
+ /usr/mips-linux-gnu/include/bits/sysmacros.h \
+ /usr/mips-linux-gnu/include/bits/pthreadtypes.h \
+ /usr/mips-linux-gnu/include/bits/thread-shared-types.h \
+ /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h \
+ /usr/mips-linux-gnu/include/errno.h \
+ /usr/mips-linux-gnu/include/bits/errno.h \
+ /usr/mips-linux-gnu/include/linux/errno.h \
+ /usr/mips-linux-gnu/include/asm/errno.h \
+ /usr/mips-linux-gnu/include/asm-generic/errno-base.h \
+ lib/selinux/context.h lib/openat.h lib/fcntl.h \
+ /usr/mips-linux-gnu/include/fcntl.h \
+ /usr/mips-linux-gnu/include/bits/fcntl.h \
+ /usr/mips-linux-gnu/include/bits/fcntl-linux.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_iovec.h \
+ /usr/mips-linux-gnu/include/linux/falloc.h \
+ /usr/mips-linux-gnu/include/bits/stat.h lib/sys/stat.h lib/time.h \
+ /usr/mips-linux-gnu/include/time.h \
+ /usr/mips-linux-gnu/include/bits/time.h \
+ /usr/mips-linux-gnu/include/bits/timex.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_tm.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_itimerspec.h \
+ /usr/mips-linux-gnu/include/bits/types/locale_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__locale_t.h \
+ /usr/mips-linux-gnu/include/sys/stat.h lib/unistd.h \
+ /usr/mips-linux-gnu/include/unistd.h \
+ /usr/mips-linux-gnu/include/bits/posix_opt.h \
+ /usr/mips-linux-gnu/include/bits/environments.h \
+ /usr/mips-linux-gnu/include/bits/confname.h \
+ /usr/mips-linux-gnu/include/bits/getopt_posix.h \
+ /usr/mips-linux-gnu/include/bits/getopt_core.h lib/getopt-cdefs.h \
+ lib/getopt-pfx-core.h lib/getopt-core.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stdbool.h lib/stdlib.h \
+ /usr/mips-linux-gnu/include/stdlib.h \
+ /usr/mips-linux-gnu/include/bits/libc-header-start.h \
+ /usr/mips-linux-gnu/include/bits/waitflags.h \
+ /usr/mips-linux-gnu/include/bits/waitstatus.h \
+ /usr/mips-linux-gnu/include/bits/floatn.h \
+ /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
+ /usr/mips-linux-gnu/include/bits/stdlib-float.h lib/save-cwd.h \
+ lib/openat-priv.h lib/limits.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/syslimits.h \
+ /usr/mips-linux-gnu/include/limits.h \
+ /usr/mips-linux-gnu/include/bits/posix1_lim.h \
+ /usr/mips-linux-gnu/include/bits/local_lim.h \
+ /usr/mips-linux-gnu/include/linux/limits.h \
+ /usr/mips-linux-gnu/include/bits/posix2_lim.h \
+ /usr/mips-linux-gnu/include/bits/xopen_lim.h \
+ /usr/mips-linux-gnu/include/bits/uio_lim.h lib/at-func.c lib/dosname.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/selinux-at.h:
+
+lib/selinux/selinux.h:
+
+lib/sys/types.h:
+
+/usr/mips-linux-gnu/include/sys/types.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/mips-linux-gnu/include/bits/types.h:
+
+/usr/mips-linux-gnu/include/bits/typesizes.h:
+
+/usr/mips-linux-gnu/include/bits/types/clock_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/clockid_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/time_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/timer_t.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h:
+
+/usr/mips-linux-gnu/include/bits/stdint-intn.h:
+
+/usr/mips-linux-gnu/include/endian.h:
+
+/usr/mips-linux-gnu/include/bits/endian.h:
+
+/usr/mips-linux-gnu/include/bits/byteswap.h:
+
+/usr/mips-linux-gnu/include/bits/byteswap-16.h:
+
+/usr/mips-linux-gnu/include/bits/uintn-identity.h:
+
+lib/sys/select.h:
+
+/usr/mips-linux-gnu/include/sys/select.h:
+
+/usr/mips-linux-gnu/include/bits/select.h:
+
+/usr/mips-linux-gnu/include/bits/types/sigset_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__sigset_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timeval.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timespec.h:
+
+/usr/mips-linux-gnu/include/sys/sysmacros.h:
+
+/usr/mips-linux-gnu/include/bits/sysmacros.h:
+
+/usr/mips-linux-gnu/include/bits/pthreadtypes.h:
+
+/usr/mips-linux-gnu/include/bits/thread-shared-types.h:
+
+/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h:
+
+/usr/mips-linux-gnu/include/errno.h:
+
+/usr/mips-linux-gnu/include/bits/errno.h:
+
+/usr/mips-linux-gnu/include/linux/errno.h:
+
+/usr/mips-linux-gnu/include/asm/errno.h:
+
+/usr/mips-linux-gnu/include/asm-generic/errno-base.h:
+
+lib/selinux/context.h:
+
+lib/openat.h:
+
+lib/fcntl.h:
+
+/usr/mips-linux-gnu/include/fcntl.h:
+
+/usr/mips-linux-gnu/include/bits/fcntl.h:
+
+/usr/mips-linux-gnu/include/bits/fcntl-linux.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_iovec.h:
+
+/usr/mips-linux-gnu/include/linux/falloc.h:
+
+/usr/mips-linux-gnu/include/bits/stat.h:
+
+lib/sys/stat.h:
+
+lib/time.h:
+
+/usr/mips-linux-gnu/include/time.h:
+
+/usr/mips-linux-gnu/include/bits/time.h:
+
+/usr/mips-linux-gnu/include/bits/timex.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_tm.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_itimerspec.h:
+
+/usr/mips-linux-gnu/include/bits/types/locale_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__locale_t.h:
+
+/usr/mips-linux-gnu/include/sys/stat.h:
+
+lib/unistd.h:
+
+/usr/mips-linux-gnu/include/unistd.h:
+
+/usr/mips-linux-gnu/include/bits/posix_opt.h:
+
+/usr/mips-linux-gnu/include/bits/environments.h:
+
+/usr/mips-linux-gnu/include/bits/confname.h:
+
+/usr/mips-linux-gnu/include/bits/getopt_posix.h:
+
+/usr/mips-linux-gnu/include/bits/getopt_core.h:
+
+lib/getopt-cdefs.h:
+
+lib/getopt-pfx-core.h:
+
+lib/getopt-core.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdbool.h:
+
+lib/stdlib.h:
+
+/usr/mips-linux-gnu/include/stdlib.h:
+
+/usr/mips-linux-gnu/include/bits/libc-header-start.h:
+
+/usr/mips-linux-gnu/include/bits/waitflags.h:
+
+/usr/mips-linux-gnu/include/bits/waitstatus.h:
+
+/usr/mips-linux-gnu/include/bits/floatn.h:
+
+/usr/mips-linux-gnu/include/bits/floatn-common.h:
+
+lib/alloca.h:
+
+/usr/mips-linux-gnu/include/bits/stdlib-float.h:
+
+lib/save-cwd.h:
+
+lib/openat-priv.h:
+
+lib/limits.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/limits.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/syslimits.h:
+
+/usr/mips-linux-gnu/include/limits.h:
+
+/usr/mips-linux-gnu/include/bits/posix1_lim.h:
+
+/usr/mips-linux-gnu/include/bits/local_lim.h:
+
+/usr/mips-linux-gnu/include/linux/limits.h:
+
+/usr/mips-linux-gnu/include/bits/posix2_lim.h:
+
+/usr/mips-linux-gnu/include/bits/xopen_lim.h:
+
+/usr/mips-linux-gnu/include/bits/uio_lim.h:
+
+lib/at-func.c:
+
+lib/dosname.h:

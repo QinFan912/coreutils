@@ -1,0 +1,8 @@
+lib/xasprintf.o: lib/xasprintf.c lib/config.h lib/xvasprintf.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdarg.h
+
+lib/config.h:
+
+lib/xvasprintf.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdarg.h:

@@ -1,0 +1,70 @@
+lib/hard-locale.o: lib/hard-locale.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/hard-locale.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdbool.h lib/locale.h \
+ /usr/mips-linux-gnu/include/locale.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h \
+ /usr/mips-linux-gnu/include/bits/locale.h \
+ /usr/mips-linux-gnu/include/bits/types/locale_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__locale_t.h lib/setlocale_null.h \
+ lib/arg-nonnull.h lib/string.h /usr/mips-linux-gnu/include/string.h \
+ /usr/mips-linux-gnu/include/bits/libc-header-start.h \
+ /usr/mips-linux-gnu/include/strings.h \
+ /usr/mips-linux-gnu/include/bits/strings_fortified.h \
+ /usr/mips-linux-gnu/include/bits/string_fortified.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/hard-locale.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stdbool.h:
+
+lib/locale.h:
+
+/usr/mips-linux-gnu/include/locale.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h:
+
+/usr/mips-linux-gnu/include/bits/locale.h:
+
+/usr/mips-linux-gnu/include/bits/types/locale_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__locale_t.h:
+
+lib/setlocale_null.h:
+
+lib/arg-nonnull.h:
+
+lib/string.h:
+
+/usr/mips-linux-gnu/include/string.h:
+
+/usr/mips-linux-gnu/include/bits/libc-header-start.h:
+
+/usr/mips-linux-gnu/include/strings.h:
+
+/usr/mips-linux-gnu/include/bits/strings_fortified.h:
+
+/usr/mips-linux-gnu/include/bits/string_fortified.h:

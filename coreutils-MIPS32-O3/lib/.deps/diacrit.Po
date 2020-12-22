@@ -1,0 +1,8 @@
+lib/diacrit.o: lib/diacrit.c /usr/mips-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/diacrit.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/diacrit.h:

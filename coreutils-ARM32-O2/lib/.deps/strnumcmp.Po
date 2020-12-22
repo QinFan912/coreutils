@@ -1,0 +1,13 @@
+lib/strnumcmp.o: lib/strnumcmp.c lib/config.h lib/strnumcmp-in.h \
+ lib/strnumcmp.h lib/stddef.h \
+ /usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stddef.h
+
+lib/config.h:
+
+lib/strnumcmp-in.h:
+
+lib/strnumcmp.h:
+
+lib/stddef.h:
+
+/usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stddef.h:

@@ -1,0 +1,51 @@
+lib/getopt1.o: lib/getopt1.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/getopt.h lib/getopt.h \
+ /usr/aarch64-linux-gnu/include/getopt.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/bits/long-double.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/aarch64-linux-gnu/include/bits/getopt_core.h \
+ /usr/aarch64-linux-gnu/include/bits/getopt_ext.h lib/getopt-cdefs.h \
+ lib/getopt-pfx-core.h lib/getopt-core.h lib/getopt-pfx-ext.h \
+ lib/getopt-ext.h lib/getopt_int.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/getopt.h:
+
+lib/getopt.h:
+
+/usr/aarch64-linux-gnu/include/getopt.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/bits/long-double.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/aarch64-linux-gnu/include/bits/getopt_core.h:
+
+/usr/aarch64-linux-gnu/include/bits/getopt_ext.h:
+
+lib/getopt-cdefs.h:
+
+lib/getopt-pfx-core.h:
+
+lib/getopt-core.h:
+
+lib/getopt-pfx-ext.h:
+
+lib/getopt-ext.h:
+
+lib/getopt_int.h:

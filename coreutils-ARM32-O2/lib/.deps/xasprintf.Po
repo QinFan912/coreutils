@@ -1,0 +1,8 @@
+lib/xasprintf.o: lib/xasprintf.c lib/config.h lib/xvasprintf.h \
+ /usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stdarg.h
+
+lib/config.h:
+
+lib/xvasprintf.h:
+
+/usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stdarg.h:

@@ -1,0 +1,6 @@
+src/uname-uname.o: src/uname-uname.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h src/uname.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+src/uname.h:

@@ -1,0 +1,56 @@
+ioctl.o: ioctl.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ ../lib/config.h ../lib/sys/ioctl.h \
+ /usr/aarch64-linux-gnu/include/sys/ioctl.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/bits/long-double.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/aarch64-linux-gnu/include/bits/ioctls.h \
+ /usr/aarch64-linux-gnu/include/asm/ioctls.h \
+ /usr/aarch64-linux-gnu/include/asm-generic/ioctls.h \
+ /usr/aarch64-linux-gnu/include/linux/ioctl.h \
+ /usr/aarch64-linux-gnu/include/asm/ioctl.h \
+ /usr/aarch64-linux-gnu/include/asm-generic/ioctl.h \
+ /usr/aarch64-linux-gnu/include/bits/ioctl-types.h \
+ /usr/aarch64-linux-gnu/include/sys/ttydefaults.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+../lib/config.h:
+
+../lib/sys/ioctl.h:
+
+/usr/aarch64-linux-gnu/include/sys/ioctl.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/bits/long-double.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/aarch64-linux-gnu/include/bits/ioctls.h:
+
+/usr/aarch64-linux-gnu/include/asm/ioctls.h:
+
+/usr/aarch64-linux-gnu/include/asm-generic/ioctls.h:
+
+/usr/aarch64-linux-gnu/include/linux/ioctl.h:
+
+/usr/aarch64-linux-gnu/include/asm/ioctl.h:
+
+/usr/aarch64-linux-gnu/include/asm-generic/ioctl.h:
+
+/usr/aarch64-linux-gnu/include/bits/ioctl-types.h:
+
+/usr/aarch64-linux-gnu/include/sys/ttydefaults.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h:

@@ -1,0 +1,49 @@
+lib/full-write.o: lib/full-write.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/full-write.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h \
+ /usr/mips-linux-gnu/include/errno.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/mips-linux-gnu/include/bits/errno.h \
+ /usr/mips-linux-gnu/include/linux/errno.h \
+ /usr/mips-linux-gnu/include/asm/errno.h \
+ /usr/mips-linux-gnu/include/asm-generic/errno-base.h lib/safe-write.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/full-write.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h:
+
+/usr/mips-linux-gnu/include/errno.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/mips-linux-gnu/include/bits/errno.h:
+
+/usr/mips-linux-gnu/include/linux/errno.h:
+
+/usr/mips-linux-gnu/include/asm/errno.h:
+
+/usr/mips-linux-gnu/include/asm-generic/errno-base.h:
+
+lib/safe-write.h:

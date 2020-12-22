@@ -1,0 +1,6 @@
+localename-table.o: localename-table.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h ../lib/config.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+../lib/config.h:

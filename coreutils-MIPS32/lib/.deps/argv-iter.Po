@@ -1,0 +1,181 @@
+lib/argv-iter.o: lib/argv-iter.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/argv-iter.h \
+ lib/stdio.h /usr/mips-linux-gnu/include/stdio.h \
+ /usr/mips-linux-gnu/include/bits/libc-header-start.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h \
+ /usr/mips-linux-gnu/include/bits/types.h \
+ /usr/mips-linux-gnu/include/bits/typesizes.h \
+ /usr/mips-linux-gnu/include/bits/types/__FILE.h \
+ /usr/mips-linux-gnu/include/bits/types/FILE.h \
+ /usr/mips-linux-gnu/include/bits/libio.h \
+ /usr/mips-linux-gnu/include/bits/_G_config.h \
+ /usr/mips-linux-gnu/include/bits/types/__mbstate_t.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h \
+ /usr/mips-linux-gnu/include/bits/stdio_lim.h \
+ /usr/mips-linux-gnu/include/bits/sys_errlist.h lib/sys/types.h \
+ /usr/mips-linux-gnu/include/sys/types.h \
+ /usr/mips-linux-gnu/include/bits/types/clock_t.h \
+ /usr/mips-linux-gnu/include/bits/types/clockid_t.h \
+ /usr/mips-linux-gnu/include/bits/types/time_t.h \
+ /usr/mips-linux-gnu/include/bits/types/timer_t.h \
+ /usr/mips-linux-gnu/include/bits/stdint-intn.h \
+ /usr/mips-linux-gnu/include/endian.h \
+ /usr/mips-linux-gnu/include/bits/endian.h \
+ /usr/mips-linux-gnu/include/bits/byteswap.h \
+ /usr/mips-linux-gnu/include/bits/byteswap-16.h \
+ /usr/mips-linux-gnu/include/bits/uintn-identity.h lib/sys/select.h \
+ /usr/mips-linux-gnu/include/sys/select.h \
+ /usr/mips-linux-gnu/include/bits/select.h \
+ /usr/mips-linux-gnu/include/bits/types/sigset_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__sigset_t.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timeval.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timespec.h \
+ /usr/mips-linux-gnu/include/sys/sysmacros.h \
+ /usr/mips-linux-gnu/include/bits/sysmacros.h \
+ /usr/mips-linux-gnu/include/bits/pthreadtypes.h \
+ /usr/mips-linux-gnu/include/bits/thread-shared-types.h \
+ /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stdbool.h lib/arg-nonnull.h \
+ lib/stdlib.h /usr/mips-linux-gnu/include/stdlib.h \
+ /usr/mips-linux-gnu/include/bits/waitflags.h \
+ /usr/mips-linux-gnu/include/bits/waitstatus.h \
+ /usr/mips-linux-gnu/include/bits/floatn.h \
+ /usr/mips-linux-gnu/include/bits/floatn-common.h \
+ /usr/mips-linux-gnu/include/bits/types/locale_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__locale_t.h lib/alloca.h \
+ /usr/mips-linux-gnu/include/bits/stdlib-float.h lib/string.h \
+ /usr/mips-linux-gnu/include/string.h \
+ /usr/mips-linux-gnu/include/strings.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/argv-iter.h:
+
+lib/stdio.h:
+
+/usr/mips-linux-gnu/include/stdio.h:
+
+/usr/mips-linux-gnu/include/bits/libc-header-start.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h:
+
+/usr/mips-linux-gnu/include/bits/types.h:
+
+/usr/mips-linux-gnu/include/bits/typesizes.h:
+
+/usr/mips-linux-gnu/include/bits/types/__FILE.h:
+
+/usr/mips-linux-gnu/include/bits/types/FILE.h:
+
+/usr/mips-linux-gnu/include/bits/libio.h:
+
+/usr/mips-linux-gnu/include/bits/_G_config.h:
+
+/usr/mips-linux-gnu/include/bits/types/__mbstate_t.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdarg.h:
+
+/usr/mips-linux-gnu/include/bits/stdio_lim.h:
+
+/usr/mips-linux-gnu/include/bits/sys_errlist.h:
+
+lib/sys/types.h:
+
+/usr/mips-linux-gnu/include/sys/types.h:
+
+/usr/mips-linux-gnu/include/bits/types/clock_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/clockid_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/time_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/timer_t.h:
+
+/usr/mips-linux-gnu/include/bits/stdint-intn.h:
+
+/usr/mips-linux-gnu/include/endian.h:
+
+/usr/mips-linux-gnu/include/bits/endian.h:
+
+/usr/mips-linux-gnu/include/bits/byteswap.h:
+
+/usr/mips-linux-gnu/include/bits/byteswap-16.h:
+
+/usr/mips-linux-gnu/include/bits/uintn-identity.h:
+
+lib/sys/select.h:
+
+/usr/mips-linux-gnu/include/sys/select.h:
+
+/usr/mips-linux-gnu/include/bits/select.h:
+
+/usr/mips-linux-gnu/include/bits/types/sigset_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__sigset_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timeval.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timespec.h:
+
+/usr/mips-linux-gnu/include/sys/sysmacros.h:
+
+/usr/mips-linux-gnu/include/bits/sysmacros.h:
+
+/usr/mips-linux-gnu/include/bits/pthreadtypes.h:
+
+/usr/mips-linux-gnu/include/bits/thread-shared-types.h:
+
+/usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdbool.h:
+
+lib/arg-nonnull.h:
+
+lib/stdlib.h:
+
+/usr/mips-linux-gnu/include/stdlib.h:
+
+/usr/mips-linux-gnu/include/bits/waitflags.h:
+
+/usr/mips-linux-gnu/include/bits/waitstatus.h:
+
+/usr/mips-linux-gnu/include/bits/floatn.h:
+
+/usr/mips-linux-gnu/include/bits/floatn-common.h:
+
+/usr/mips-linux-gnu/include/bits/types/locale_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__locale_t.h:
+
+lib/alloca.h:
+
+/usr/mips-linux-gnu/include/bits/stdlib-float.h:
+
+lib/string.h:
+
+/usr/mips-linux-gnu/include/string.h:
+
+/usr/mips-linux-gnu/include/strings.h:

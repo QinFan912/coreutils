@@ -1,0 +1,8 @@
+lib/c-ctype.o: lib/c-ctype.c lib/config.h lib/c-ctype.h \
+ /home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdbool.h
+
+lib/config.h:
+
+lib/c-ctype.h:
+
+/home/qinfan/App/gcc-4.4.7-7215-n64-loongson/usr/bin/../lib/gcc/mips64el-redhat-linux/4.4.7/include/stdbool.h:

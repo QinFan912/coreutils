@@ -1,0 +1,99 @@
+lib/memchr2.o: lib/memchr2.c /usr/mips-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/memchr2.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h lib/limits.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/syslimits.h \
+ /usr/mips-linux-gnu/include/limits.h \
+ /usr/mips-linux-gnu/include/bits/libc-header-start.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/mips-linux-gnu/include/bits/posix1_lim.h \
+ /usr/mips-linux-gnu/include/bits/local_lim.h \
+ /usr/mips-linux-gnu/include/linux/limits.h \
+ /usr/mips-linux-gnu/include/bits/posix2_lim.h \
+ /usr/mips-linux-gnu/include/bits/xopen_lim.h \
+ /usr/mips-linux-gnu/include/bits/uio_lim.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stdint.h \
+ /usr/mips-linux-gnu/include/stdint.h \
+ /usr/mips-linux-gnu/include/bits/types.h \
+ /usr/mips-linux-gnu/include/bits/typesizes.h \
+ /usr/mips-linux-gnu/include/bits/wchar.h \
+ /usr/mips-linux-gnu/include/bits/stdint-intn.h \
+ /usr/mips-linux-gnu/include/bits/stdint-uintn.h lib/string.h \
+ /usr/mips-linux-gnu/include/string.h \
+ /usr/mips-linux-gnu/include/bits/types/locale_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__locale_t.h \
+ /usr/mips-linux-gnu/include/strings.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/memchr2.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h:
+
+lib/limits.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/limits.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include-fixed/syslimits.h:
+
+/usr/mips-linux-gnu/include/limits.h:
+
+/usr/mips-linux-gnu/include/bits/libc-header-start.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/mips-linux-gnu/include/bits/posix1_lim.h:
+
+/usr/mips-linux-gnu/include/bits/local_lim.h:
+
+/usr/mips-linux-gnu/include/linux/limits.h:
+
+/usr/mips-linux-gnu/include/bits/posix2_lim.h:
+
+/usr/mips-linux-gnu/include/bits/xopen_lim.h:
+
+/usr/mips-linux-gnu/include/bits/uio_lim.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stdint.h:
+
+/usr/mips-linux-gnu/include/stdint.h:
+
+/usr/mips-linux-gnu/include/bits/types.h:
+
+/usr/mips-linux-gnu/include/bits/typesizes.h:
+
+/usr/mips-linux-gnu/include/bits/wchar.h:
+
+/usr/mips-linux-gnu/include/bits/stdint-intn.h:
+
+/usr/mips-linux-gnu/include/bits/stdint-uintn.h:
+
+lib/string.h:
+
+/usr/mips-linux-gnu/include/string.h:
+
+/usr/mips-linux-gnu/include/bits/types/locale_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__locale_t.h:
+
+/usr/mips-linux-gnu/include/strings.h:

@@ -1,0 +1,8 @@
+lib/c-ctype.o: lib/c-ctype.c lib/config.h lib/c-ctype.h \
+ /usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stdbool.h
+
+lib/config.h:
+
+lib/c-ctype.h:
+
+/usr/local/arm/gcc-4.6.4/bin/../lib/gcc/arm-arm1176jzfssf-linux-gnueabi/4.6.4/include/stdbool.h:

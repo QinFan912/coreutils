@@ -1,0 +1,6 @@
+src/ls-vdir.o: src/ls-vdir.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ src/ls.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+src/ls.h:

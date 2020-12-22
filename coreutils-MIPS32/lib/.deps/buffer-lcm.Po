@@ -1,0 +1,11 @@
+lib/buffer-lcm.o: lib/buffer-lcm.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/buffer-lcm.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/buffer-lcm.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/7/include/stddef.h:

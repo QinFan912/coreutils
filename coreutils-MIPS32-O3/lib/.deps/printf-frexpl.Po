@@ -1,0 +1,11 @@
+lib/printf-frexpl.o: lib/printf-frexpl.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h \
+ lib/printf-frexpl.h lib/printf-frexp.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/printf-frexpl.h:
+
+lib/printf-frexp.h:
