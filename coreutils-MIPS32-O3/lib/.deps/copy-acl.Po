@@ -61,7 +61,6 @@ lib/copy-acl.o: lib/copy-acl.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
  /usr/mips-linux-gnu/include/bits/floatn.h \
  /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h
 
@@ -218,8 +217,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/floatn-common.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

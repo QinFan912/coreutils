@@ -41,7 +41,6 @@ lib/mgetgroups.o: lib/mgetgroups.c \
  /usr/mips-linux-gnu/include/bits/floatn-common.h \
  /usr/mips-linux-gnu/include/bits/types/locale_t.h \
  /usr/mips-linux-gnu/include/bits/types/__locale_t.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h lib/unistd.h \
  /usr/mips-linux-gnu/include/unistd.h \
@@ -164,8 +163,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/types/__locale_t.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

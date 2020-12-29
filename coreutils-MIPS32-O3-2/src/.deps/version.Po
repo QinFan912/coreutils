@@ -1,0 +1,6 @@
+src/version.o: src/version.c /usr/mips-linux-gnu/include/stdc-predef.h \
+ lib/config.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:

@@ -63,7 +63,6 @@ lib/lchmod.o: lib/lchmod.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/unistd.h \
  /usr/mips-linux-gnu/include/unistd.h \
  /usr/mips-linux-gnu/include/bits/posix_opt.h \
@@ -224,8 +223,6 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 

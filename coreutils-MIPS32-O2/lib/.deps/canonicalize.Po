@@ -41,7 +41,6 @@ lib/canonicalize.o: lib/canonicalize.c \
  /usr/mips-linux-gnu/include/bits/pthreadtypes.h \
  /usr/mips-linux-gnu/include/bits/thread-shared-types.h \
  /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h \
  /usr/mips-linux-gnu/include/errno.h \
@@ -78,7 +77,6 @@ lib/canonicalize.o: lib/canonicalize.c \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/hash-triple.h \
  lib/pathmax.h lib/limits.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include-fixed/limits.h \
@@ -192,8 +190,6 @@ lib/sys/select.h:
 
 lib/alloca.h:
 
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
-
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib.h:
@@ -285,8 +281,6 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 

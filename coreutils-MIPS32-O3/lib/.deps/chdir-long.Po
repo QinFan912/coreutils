@@ -70,7 +70,6 @@ lib/chdir-long.o: lib/chdir-long.c \
  /usr/mips-linux-gnu/include/bits/floatn-common.h \
  /usr/mips-linux-gnu/include/bits/types/locale_t.h \
  /usr/mips-linux-gnu/include/bits/types/__locale_t.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdbool.h lib/string.h \
@@ -87,7 +86,6 @@ lib/chdir-long.o: lib/chdir-long.c \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/assure.h \
  /usr/mips-linux-gnu/include/assert.h
 
@@ -257,8 +255,6 @@ lib/stdlib.h:
 
 lib/alloca.h:
 
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
-
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib.h:
@@ -294,8 +290,6 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 

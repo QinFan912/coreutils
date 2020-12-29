@@ -46,7 +46,6 @@ lib/cl-strtod.o: lib/cl-strtod.c \
  /usr/mips-linux-gnu/include/bits/pthreadtypes.h \
  /usr/mips-linux-gnu/include/bits/thread-shared-types.h \
  /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h
 
@@ -157,8 +156,6 @@ lib/sys/select.h:
 /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

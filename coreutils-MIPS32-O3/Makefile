@@ -3495,7 +3495,7 @@ BITSIZEOF_WINT_T =
 BYTESWAP_H = 
 CC = mips-linux-gnu-gcc
 CCDEPMODE = depmode=gcc3
-CFLAGS = -g -O3
+CFLAGS = -g -O3 -fno-inline
 CFLAG_VISIBILITY = 
 CONFIG_INCLUDE = lib/config.h
 CPP = mips-linux-gnu-gcc -E

@@ -1,0 +1,79 @@
+lib/localtime-buffer.o: lib/localtime-buffer.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h \
+ lib/localtime-buffer.h lib/time.h /usr/mips-linux-gnu/include/time.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h \
+ /usr/mips-linux-gnu/include/bits/time.h \
+ /usr/mips-linux-gnu/include/bits/types.h \
+ /usr/mips-linux-gnu/include/bits/typesizes.h \
+ /usr/mips-linux-gnu/include/bits/timex.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timeval.h \
+ /usr/mips-linux-gnu/include/bits/types/clock_t.h \
+ /usr/mips-linux-gnu/include/bits/types/time_t.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_tm.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_timespec.h \
+ /usr/mips-linux-gnu/include/bits/types/clockid_t.h \
+ /usr/mips-linux-gnu/include/bits/types/timer_t.h \
+ /usr/mips-linux-gnu/include/bits/types/struct_itimerspec.h \
+ /usr/mips-linux-gnu/include/bits/types/locale_t.h \
+ /usr/mips-linux-gnu/include/bits/types/__locale_t.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/localtime-buffer.h:
+
+lib/time.h:
+
+/usr/mips-linux-gnu/include/time.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h:
+
+/usr/mips-linux-gnu/include/bits/time.h:
+
+/usr/mips-linux-gnu/include/bits/types.h:
+
+/usr/mips-linux-gnu/include/bits/typesizes.h:
+
+/usr/mips-linux-gnu/include/bits/timex.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timeval.h:
+
+/usr/mips-linux-gnu/include/bits/types/clock_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/time_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_tm.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_timespec.h:
+
+/usr/mips-linux-gnu/include/bits/types/clockid_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/timer_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/struct_itimerspec.h:
+
+/usr/mips-linux-gnu/include/bits/types/locale_t.h:
+
+/usr/mips-linux-gnu/include/bits/types/__locale_t.h:

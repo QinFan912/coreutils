@@ -59,14 +59,12 @@ lib/regex.o: lib/regex.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/stdlib.h \
  /usr/mips-linux-gnu/include/stdlib.h \
  /usr/mips-linux-gnu/include/bits/waitflags.h \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
  /usr/mips-linux-gnu/include/bits/floatn.h \
  /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h lib/string.h \
  /usr/mips-linux-gnu/include/string.h \
@@ -238,8 +236,6 @@ lib/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
 
-/usr/mips-linux-gnu/include/bits/stdio.h:
-
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 
 lib/stdlib.h:
@@ -255,8 +251,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/floatn-common.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

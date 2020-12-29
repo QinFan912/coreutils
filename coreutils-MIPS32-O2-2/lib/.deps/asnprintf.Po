@@ -1,0 +1,14 @@
+lib/asnprintf.o: lib/asnprintf.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h lib/vasnprintf.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/vasnprintf.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stddef.h:

@@ -43,7 +43,6 @@ lib/idcache.o: lib/idcache.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/string.h \
  /usr/mips-linux-gnu/include/string.h \
  /usr/mips-linux-gnu/include/bits/types/locale_t.h \
@@ -162,8 +161,6 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 

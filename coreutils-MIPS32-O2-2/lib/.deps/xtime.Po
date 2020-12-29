@@ -1,0 +1,8 @@
+lib/xtime.o: lib/xtime.c /usr/mips-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/xtime.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/xtime.h:

@@ -50,7 +50,6 @@ lib/binary-io.o: lib/binary-io.c \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h
 
 /usr/mips-linux-gnu/include/stdc-predef.h:
@@ -166,7 +165,5 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:

@@ -48,7 +48,6 @@ lib/human.o: lib/human.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/sys/types.h \
  /usr/mips-linux-gnu/include/sys/types.h \
  /usr/mips-linux-gnu/include/bits/types/clock_t.h \
@@ -77,7 +76,6 @@ lib/human.o: lib/human.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
  /usr/mips-linux-gnu/include/bits/floatn.h \
  /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h lib/string.h \
  /usr/mips-linux-gnu/include/string.h \
@@ -209,8 +207,6 @@ lib/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
 
-/usr/mips-linux-gnu/include/bits/stdio.h:
-
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 
 lib/sys/types.h:
@@ -274,8 +270,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/floatn-common.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

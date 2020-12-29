@@ -1,0 +1,6 @@
+localename-table.o: localename-table.c \
+ /usr/mips-linux-gnu/include/stdc-predef.h ../lib/config.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+../lib/config.h:

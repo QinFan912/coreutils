@@ -54,7 +54,6 @@ lib/readutmp.o: lib/readutmp.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/sys/stat.h lib/time.h \
  /usr/mips-linux-gnu/include/time.h \
  /usr/mips-linux-gnu/include/bits/time.h \
@@ -95,7 +94,6 @@ lib/readutmp.o: lib/readutmp.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
  /usr/mips-linux-gnu/include/bits/floatn.h \
  /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdint.h \
@@ -226,8 +224,6 @@ lib/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
 
-/usr/mips-linux-gnu/include/bits/stdio.h:
-
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 
 lib/sys/stat.h:
@@ -319,8 +315,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/floatn-common.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

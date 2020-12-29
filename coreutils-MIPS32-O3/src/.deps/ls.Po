@@ -58,7 +58,6 @@ src/ls.o: src/ls.c /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h \
  /usr/mips-linux-gnu/include/assert.h \
  /usr/mips-linux-gnu/include/setjmp.h \
@@ -142,7 +141,6 @@ src/ls.o: src/ls.c /usr/mips-linux-gnu/include/stdc-predef.h lib/config.h \
  /usr/mips-linux-gnu/include/stdlib.h \
  /usr/mips-linux-gnu/include/bits/waitflags.h \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h src/version.h lib/exitfail.h \
  lib/fcntl.h /usr/mips-linux-gnu/include/fcntl.h \
@@ -305,8 +303,6 @@ lib/stdio.h:
 /usr/mips-linux-gnu/include/bits/stdio_lim.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
-
-/usr/mips-linux-gnu/include/bits/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 
@@ -513,8 +509,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/waitflags.h:
 
 /usr/mips-linux-gnu/include/bits/waitstatus.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

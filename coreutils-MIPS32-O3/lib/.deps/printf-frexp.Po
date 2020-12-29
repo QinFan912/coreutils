@@ -21,8 +21,7 @@ lib/printf-frexp.o: lib/printf-frexp.c \
  /usr/mips-linux-gnu/include/bits/fp-fast.h \
  /usr/mips-linux-gnu/include/bits/mathcalls-helper-functions.h \
  /usr/mips-linux-gnu/include/bits/mathcalls.h \
- /usr/mips-linux-gnu/include/bits/iscanonical.h \
- /usr/mips-linux-gnu/include/bits/mathinline.h
+ /usr/mips-linux-gnu/include/bits/iscanonical.h
 
 /usr/mips-linux-gnu/include/stdc-predef.h:
 
@@ -75,5 +74,3 @@ lib/math.h:
 /usr/mips-linux-gnu/include/bits/mathcalls.h:
 
 /usr/mips-linux-gnu/include/bits/iscanonical.h:
-
-/usr/mips-linux-gnu/include/bits/mathinline.h:

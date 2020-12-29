@@ -45,7 +45,6 @@ lib/xmemcoll.o: lib/xmemcoll.c /usr/mips-linux-gnu/include/stdc-predef.h \
  /usr/mips-linux-gnu/include/bits/pthreadtypes.h \
  /usr/mips-linux-gnu/include/bits/thread-shared-types.h \
  /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h lib/gettext.h \
  /usr/mips-linux-gnu/include/libintl.h lib/locale.h \
@@ -160,8 +159,6 @@ lib/sys/select.h:
 /usr/mips-linux-gnu/include/bits/pthreadtypes-arch.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

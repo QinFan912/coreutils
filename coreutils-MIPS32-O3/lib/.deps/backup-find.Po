@@ -61,7 +61,6 @@ lib/backup-find.o: lib/backup-find.c \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h \
  /usr/mips-linux-gnu/include/bits/stdio_lim.h \
  /usr/mips-linux-gnu/include/bits/sys_errlist.h \
- /usr/mips-linux-gnu/include/bits/stdio.h \
  /usr/mips-linux-gnu/include/bits/stdio2.h lib/string.h \
  /usr/mips-linux-gnu/include/string.h \
  /usr/mips-linux-gnu/include/bits/types/locale_t.h \
@@ -77,7 +76,6 @@ lib/backup-find.o: lib/backup-find.c \
  /usr/mips-linux-gnu/include/bits/waitstatus.h \
  /usr/mips-linux-gnu/include/bits/floatn.h \
  /usr/mips-linux-gnu/include/bits/floatn-common.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h lib/quote.h lib/verify.h \
  lib/xalloc.h /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdint.h \
@@ -225,8 +223,6 @@ lib/stdio.h:
 
 /usr/mips-linux-gnu/include/bits/sys_errlist.h:
 
-/usr/mips-linux-gnu/include/bits/stdio.h:
-
 /usr/mips-linux-gnu/include/bits/stdio2.h:
 
 lib/string.h:
@@ -270,8 +266,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/floatn-common.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

@@ -1,0 +1,53 @@
+ioctl.o: ioctl.c /usr/mips-linux-gnu/include/stdc-predef.h \
+ ../lib/config.h ../lib/sys/ioctl.h \
+ /usr/mips-linux-gnu/include/sys/ioctl.h \
+ /usr/mips-linux-gnu/include/features.h \
+ /usr/mips-linux-gnu/include/sys/cdefs.h \
+ /usr/mips-linux-gnu/include/bits/wordsize.h \
+ /usr/mips-linux-gnu/include/sgidefs.h \
+ /usr/mips-linux-gnu/include/bits/long-double.h \
+ /usr/mips-linux-gnu/include/gnu/stubs.h \
+ /usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/mips-linux-gnu/include/bits/ioctls.h \
+ /usr/mips-linux-gnu/include/asm/ioctls.h \
+ /usr/mips-linux-gnu/include/asm/ioctl.h \
+ /usr/mips-linux-gnu/include/asm-generic/ioctl.h \
+ /usr/mips-linux-gnu/include/bits/ioctl-types.h \
+ /usr/mips-linux-gnu/include/sys/ttydefaults.h \
+ /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h
+
+/usr/mips-linux-gnu/include/stdc-predef.h:
+
+../lib/config.h:
+
+../lib/sys/ioctl.h:
+
+/usr/mips-linux-gnu/include/sys/ioctl.h:
+
+/usr/mips-linux-gnu/include/features.h:
+
+/usr/mips-linux-gnu/include/sys/cdefs.h:
+
+/usr/mips-linux-gnu/include/bits/wordsize.h:
+
+/usr/mips-linux-gnu/include/sgidefs.h:
+
+/usr/mips-linux-gnu/include/bits/long-double.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs.h:
+
+/usr/mips-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/mips-linux-gnu/include/bits/ioctls.h:
+
+/usr/mips-linux-gnu/include/asm/ioctls.h:
+
+/usr/mips-linux-gnu/include/asm/ioctl.h:
+
+/usr/mips-linux-gnu/include/asm-generic/ioctl.h:
+
+/usr/mips-linux-gnu/include/bits/ioctl-types.h:
+
+/usr/mips-linux-gnu/include/sys/ttydefaults.h:
+
+/usr/lib/gcc-cross/mips-linux-gnu/5/include/stdarg.h:

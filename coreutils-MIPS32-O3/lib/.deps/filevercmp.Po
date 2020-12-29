@@ -41,7 +41,6 @@ lib/filevercmp.o: lib/filevercmp.c \
  /usr/mips-linux-gnu/include/bits/floatn-common.h \
  /usr/mips-linux-gnu/include/bits/types/locale_t.h \
  /usr/mips-linux-gnu/include/bits/types/__locale_t.h lib/alloca.h \
- /usr/mips-linux-gnu/include/bits/stdlib-bsearch.h \
  /usr/mips-linux-gnu/include/bits/stdlib-float.h \
  /usr/mips-linux-gnu/include/bits/stdlib.h \
  /usr/lib/gcc-cross/mips-linux-gnu/5/include/stdbool.h lib/string.h \
@@ -154,8 +153,6 @@ lib/stdlib.h:
 /usr/mips-linux-gnu/include/bits/types/__locale_t.h:
 
 lib/alloca.h:
-
-/usr/mips-linux-gnu/include/bits/stdlib-bsearch.h:
 
 /usr/mips-linux-gnu/include/bits/stdlib-float.h:
 

@@ -438,7 +438,7 @@ configure:7720: result: 64
 configure:7921: autobuild project... GNU coreutils
 configure:7927: autobuild revision... 8.32
 configure:7932: autobuild hostname... qinfan-virtual-machine
-configure:7943: autobuild timestamp... 20201221T095901Z
+configure:7943: autobuild timestamp... 20201228T061915Z
 configure:8837: checking for fchmod
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
 configure:8837: $? = 0
@@ -477,7 +477,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for _set_invalid_parameter_handler
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccJjdS5M.o: In function `main':
+/tmp/ccx5GwJQ.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:82: undefined reference to `_set_invalid_parameter_handler'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:82: undefined reference to `_set_invalid_parameter_handler'
 collect2: error: ld returned 1 exit status
@@ -743,7 +743,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for fpurge
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cca3ZmS2.o: In function `main':
+/tmp/cc2KCPsQ.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:98: undefined reference to `fpurge'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:98: undefined reference to `fpurge'
 collect2: error: ld returned 1 exit status
@@ -857,7 +857,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for __freadahead
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccun0gei.o: In function `main':
+/tmp/ccTQyWyX.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:99: undefined reference to `__freadahead'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:99: undefined reference to `__freadahead'
 collect2: error: ld returned 1 exit status
@@ -972,7 +972,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for __freadptr
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccxfT50h.o: In function `main':
+/tmp/cc1BovhZ.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__freadptr'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__freadptr'
 collect2: error: ld returned 1 exit status
@@ -1084,7 +1084,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for __freadptrinc
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccZDxjlj.o: In function `main':
+/tmp/cct5oJL3.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__freadptrinc'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__freadptrinc'
 collect2: error: ld returned 1 exit status
@@ -1196,7 +1196,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for __fseterr
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccJ5p7op.o: In function `main':
+/tmp/ccBQzsj5.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__fseterr'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:100: undefined reference to `__fseterr'
 collect2: error: ld returned 1 exit status
@@ -1344,7 +1344,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for microuptime
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccttjYf7.o: In function `main':
+/tmp/ccRTlwfM.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:109: undefined reference to `microuptime'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:109: undefined reference to `microuptime'
 collect2: error: ld returned 1 exit status
@@ -1465,7 +1465,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for nanouptime
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cchwLCUb.o: In function `main':
+/tmp/cc7LZq3T.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:109: undefined reference to `nanouptime'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:109: undefined reference to `nanouptime'
 collect2: error: ld returned 1 exit status
@@ -1606,7 +1606,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for getprogname
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccWkMVjr.o: In function `main':
+/tmp/cc4KGis5.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:114: undefined reference to `getprogname'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:114: undefined reference to `getprogname'
 collect2: error: ld returned 1 exit status
@@ -1732,7 +1732,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for getexecname
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccA9J2Yv.o: In function `main':
+/tmp/ccykIr99.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:114: undefined reference to `getexecname'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:114: undefined reference to `getexecname'
 collect2: error: ld returned 1 exit status
@@ -1908,7 +1908,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for mbslen
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc6xO3Pp.o: In function `main':
+/tmp/ccq2094Y.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:125: undefined reference to `mbslen'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:125: undefined reference to `mbslen'
 collect2: error: ld returned 1 exit status
@@ -2088,7 +2088,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for pthread_sigmask
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc1ywny2.o: In function `main':
+/tmp/ccRQrFDs.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:135: undefined reference to `pthread_sigmask'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:135: undefined reference to `pthread_sigmask'
 collect2: error: ld returned 1 exit status
@@ -2247,7 +2247,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for renameat2
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccLiCpbg.o: In function `main':
+/tmp/ccTMnHLI.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:138: undefined reference to `renameat2'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:138: undefined reference to `renameat2'
 collect2: error: ld returned 1 exit status
@@ -2509,7 +2509,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for vasnprintf
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc5ux2lO.o: In function `main':
+/tmp/ccSkWXne.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:163: undefined reference to `vasnprintf'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:163: undefined reference to `vasnprintf'
 collect2: error: ld returned 1 exit status
@@ -2756,7 +2756,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for directio
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc0CXJVY.o: In function `main':
+/tmp/ccAhLwek.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:181: undefined reference to `directio'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:181: undefined reference to `directio'
 collect2: error: ld returned 1 exit status
@@ -3008,7 +3008,7 @@ configure:8837: $? = 0
 configure:8837: result: yes
 configure:8837: checking for getgrgid_nomembers
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cck1fy2W.o: In function `main':
+/tmp/ccWYZXO7.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrgid_nomembers'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrgid_nomembers'
 collect2: error: ld returned 1 exit status
@@ -3215,7 +3215,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for getgrnam_nomembers
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccfYcCrS.o: In function `main':
+/tmp/ccSuptc9.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrnam_nomembers'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrnam_nomembers'
 collect2: error: ld returned 1 exit status
@@ -3422,7 +3422,7 @@ configure: failed program was:
 configure:8837: result: no
 configure:8837: checking for getgrent_nomembers
 configure:8837: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccdvEtiY.o: In function `main':
+/tmp/cc3X0W8d.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrent_nomembers'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:195: undefined reference to `getgrent_nomembers'
 collect2: error: ld returned 1 exit status
@@ -9503,7 +9503,7 @@ configure:15548: result: yes
 configure:15606: checking for pthread.h
 configure:15606: result: yes
 configure:15643: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c   >&5
-/tmp/ccksKKd6.o: In function `main':
+/tmp/ccykJEx8.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:269: undefined reference to `pthread_mutexattr_init'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:269: undefined reference to `pthread_mutexattr_init'
 collect2: error: ld returned 1 exit status
@@ -12849,7 +12849,7 @@ configure:24545: checking whether unlink of a parent directory fails as it shoul
 configure:24617: result: guessing yes
 configure:24655: checking for library containing setfilecon
 configure:24686: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc8NnpDk.o: In function `main':
+/tmp/ccxkNCTo.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:306: undefined reference to `setfilecon'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:306: undefined reference to `setfilecon'
 collect2: error: ld returned 1 exit status
@@ -15050,7 +15050,7 @@ configure:28308: checking for Solaris 11.4 locale system
 configure:28341: result: no
 configure:28356: checking for getlocalename_l
 configure:28356: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc2Sp7ob.o: In function `main':
+/tmp/ccLy7Sjm.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:368: undefined reference to `getlocalename_l'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:368: undefined reference to `getlocalename_l'
 collect2: error: ld returned 1 exit status
@@ -18253,7 +18253,7 @@ configure:34608: checking whether fflush works on input streams
 configure:34688: result: cross
 configure:34722: checking for _fseeki64
 configure:34722: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccLEU1pQ.o: In function `main':
+/tmp/ccKh7IbV.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:458: undefined reference to `_fseeki64'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:458: undefined reference to `_fseeki64'
 collect2: error: ld returned 1 exit status
@@ -26592,7 +26592,7 @@ configure: failed program was:
 configure:40174: result: no
 configure:40193: checking for isapipe
 configure:40193: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc9Ascty.o: In function `main':
+/tmp/cc4JXUtD.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:518: undefined reference to `isapipe'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:518: undefined reference to `isapipe'
 collect2: error: ld returned 1 exit status
@@ -27182,7 +27182,7 @@ configure:41935: checking whether link obeys POSIX
 configure:41992: result: guessing yes
 configure:42032: checking for __xpg4
 configure:42048: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccDiLuVk.o: In function `main':
+/tmp/ccJiVVS7.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:502: undefined reference to `__xpg4'
 collect2: error: ld returned 1 exit status
 configure:42048: $? = 1
@@ -29953,7 +29953,7 @@ configure:45948: checking for working mkstemp
 configure:46017: result: guessing yes
 configure:46111: checking for __mktime_internal
 configure:46111: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccIrScCL.o: In function `main':
+/tmp/ccguSLgK.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:572: undefined reference to `__mktime_internal'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:572: undefined reference to `__mktime_internal'
 collect2: error: ld returned 1 exit status
@@ -30537,7 +30537,7 @@ configure: failed program was:
 configure:46111: result: no
 configure:46146: checking for listmntent
 configure:46146: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccwQUrPR.o: In function `main':
+/tmp/cc1CuxyQ.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:573: undefined reference to `listmntent'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:573: undefined reference to `listmntent'
 collect2: error: ld returned 1 exit status
@@ -38105,7 +38105,7 @@ configure:47473: $? = 0
 configure:47473: result: yes
 configure:47473: checking for sched_getaffinity_np
 configure:47473: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccN8AvnW.o: In function `main':
+/tmp/ccNzYCsP.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `sched_getaffinity_np'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `sched_getaffinity_np'
 collect2: error: ld returned 1 exit status
@@ -38706,7 +38706,7 @@ configure: failed program was:
 configure:47473: result: no
 configure:47473: checking for pstat_getdynamic
 configure:47473: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccDb9eSX.o: In function `main':
+/tmp/ccMrJ0HV.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `pstat_getdynamic'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `pstat_getdynamic'
 collect2: error: ld returned 1 exit status
@@ -39307,7 +39307,7 @@ configure: failed program was:
 configure:47473: result: no
 configure:47473: checking for sysmp
 configure:47473: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc5BtgN3.o: In function `main':
+/tmp/ccHraFr0.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `sysmp'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:589: undefined reference to `sysmp'
 collect2: error: ld returned 1 exit status
@@ -42351,7 +42351,7 @@ configure:48056: checking for sys/sysctl.h
 configure:48056: result: yes
 configure:48075: checking for pstat_getstatic
 configure:48075: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc3RWSuu.o: In function `main':
+/tmp/cctWgIck.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:603: undefined reference to `pstat_getstatic'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:603: undefined reference to `pstat_getstatic'
 collect2: error: ld returned 1 exit status
@@ -42970,7 +42970,7 @@ configure:48075: checking for sysmp
 configure:48075: result: no
 configure:48075: checking for getsysinfo
 configure:48075: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccvzzqez.o: In function `main':
+/tmp/ccnRAUCo.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:603: undefined reference to `getsysinfo'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:603: undefined reference to `getsysinfo'
 collect2: error: ld returned 1 exit status
@@ -43587,7 +43587,7 @@ configure:48075: checking for sysctl
 configure:48075: result: yes
 configure:48075: checking for table
 configure:48075: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cc510jiA.o: In function `main':
+/tmp/cc1q3hxv.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:604: undefined reference to `table'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:604: undefined reference to `table'
 collect2: error: ld returned 1 exit status
@@ -44231,7 +44231,7 @@ configure:48662: $? = 0
 configure:48662: result: yes
 configure:48678: checking for getppriv
 configure:48678: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccISrj8F.o: In function `main':
+/tmp/ccc0DCGK.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:612: undefined reference to `getppriv'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:612: undefined reference to `getppriv'
 collect2: error: ld returned 1 exit status
@@ -53764,7 +53764,7 @@ configure:52372: checking whether setlocale (category, NULL) is multithread-safe
 configure:52390: result: yes
 configure:52646: checking for sig2str
 configure:52646: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/cch9cs8L.o: In function `main':
+/tmp/ccDqs2OC.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:688: undefined reference to `sig2str'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:688: undefined reference to `sig2str'
 collect2: error: ld returned 1 exit status
@@ -62826,7 +62826,7 @@ configure: failed program was:
 configure:57748: result: no
 configure:57843: checking for library containing timer_settime
 configure:57874: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccuzVXtN.o: In function `main':
+/tmp/cc1lhKvM.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:706: undefined reference to `timer_settime'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:706: undefined reference to `timer_settime'
 collect2: error: ld returned 1 exit status
@@ -74937,7 +74937,7 @@ configure: failed program was:
 configure:70653: result: no
 configure:70696: checking for mode_to_security_class
 configure:70696: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c   >&5
-/tmp/cceBD9hD.o: In function `main':
+/tmp/ccFcZOzZ.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:814: undefined reference to `mode_to_security_class'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:814: undefined reference to `mode_to_security_class'
 collect2: error: ld returned 1 exit status
@@ -75763,7 +75763,7 @@ configure: failed program was:
 configure:70696: result: no
 configure:70708: checking for matchpathcon_init_prefix
 configure:70708: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c   >&5
-/tmp/ccmbbQWE.o: In function `main':
+/tmp/ccdNsle1.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:814: undefined reference to `matchpathcon_init_prefix'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:814: undefined reference to `matchpathcon_init_prefix'
 collect2: error: ld returned 1 exit status
@@ -86576,7 +86576,7 @@ configure:71070: result: no
 configure:71089: WARNING: libcap library was not found or not usable.
 configure:71091: WARNING: GNU coreutils will be built without capability support.
 configure:71123: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccjLqPkg.o: In function `main':
+/tmp/cc0ddXeG.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:792: undefined reference to `floor'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:792: undefined reference to `floor'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:793: undefined reference to `rint'
@@ -89843,7 +89843,7 @@ configure:72582: checking whether localtime caches TZ
 configure:72640: result: yes
 configure:72651: checking for getattrat
 configure:72651: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccbGUiTO.o: In function `main':
+/tmp/cctsYBO5.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:828: undefined reference to `getattrat'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:828: undefined reference to `getattrat'
 collect2: error: ld returned 1 exit status
@@ -90683,7 +90683,7 @@ configure: failed program was:
 configure:72651: result: no
 configure:72668: checking for statx
 configure:72668: mips-linux-gnu-gcc -o conftest -g -O2   conftest.c  >&5
-/tmp/ccLFVpdU.o: In function `main':
+/tmp/ccRPYzt7.o: In function `main':
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:828: undefined reference to `statx'
 /home/qinfan/coreutils/coreutils-MIPS32-O3/conftest.c:828: undefined reference to `statx'
 collect2: error: ld returned 1 exit status
